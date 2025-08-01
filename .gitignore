@@ -1,0 +1,7 @@
+# Ignore environment files with API keys
+.env
+*.env
+
+# Optional: Other common ignores
+__pycache__/
+*.pyc
